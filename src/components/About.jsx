@@ -22,6 +22,11 @@ const styles = {
     alignItems: 'center',
     display: 'flex',
   },
+  introImage: {
+    width: '100%',
+    maxWidth: '700px',
+    height: 'auto',
+  },
 };
 
 function About(props) {
@@ -48,20 +53,22 @@ function About(props) {
       <Header title={header} />
       <div className="section-content-container">
         <Container>
-          {data
-            ? (
-              <Fade>
-                <Row>
-                  <Col style={styles.introTextContainer}>
-                    {parseIntro(data.about)}
-                  </Col>
-                  <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
-                  </Col>
-                </Row>
-              </Fade>
-            )
-            : <FallbackSpinner />}
+          {data ? (
+            <Fade>
+              <Row>
+                <Col style={styles.introTextContainer}>
+                  {parseIntro(data.about)}
+                </Col>
+                <Col style={styles.introImageContainer}>
+                  <img
+                    src={data?.imageSource}
+                    alt="profile"
+                    style={styles.introImage}
+                  />
+                </Col>
+              </Row>
+            </Fade>
+          ) : <FallbackSpinner />}
         </Container>
       </div>
     </>

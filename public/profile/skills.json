@@ -4,14 +4,22 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
+                 
+                {
+                    "icon": "https://static-00.iconduck.com/assets.00/c-plain-icon-446x512-xxvdh7p5.png",
+                    "title": "C"
+                }, 
+                {
+                    "icon": "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png",
+                    "title": "C++"
+                },
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -24,14 +32,22 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/FastAPI.png",
+                    "title": "FastAPI"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -40,6 +56,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/Jest.jpg",
+                    "title": "Jest"
                 }
             ]
         },
@@ -47,12 +67,16 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VSCode"
                 },
                 {
                     "icon": "images/skills/docker.png",

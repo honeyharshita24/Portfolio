@@ -10,6 +10,7 @@ const styles = {
   logoStyle: {
     width: 50,
     height: 40,
+    borderRadius: '50px',
   },
 };
 
@@ -68,7 +69,11 @@ const NavBar = () => {
               alt="main logo"
               style={
                 data?.logo?.height && data?.logo?.width
-                  ? { height: data?.logo?.height, width: data?.logo?.width }
+                  ? {
+                    height: data?.logo?.height,
+                    width: data?.logo?.width,
+                    borderRadius: data?.logo?.borderRadius,
+                  }
                   : styles.logoStyle
               }
             />

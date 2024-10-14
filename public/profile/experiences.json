@@ -1,33 +1,28 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Software Developer Intern",
+            "subtitle": "Beanbag AI",
+            "workType": "Part-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Enhanced Beanbag AI by integrating analytics for tracking and analyzing campaign performance, providing users with actionable insights.",
+                "Spearheaded the development of an automation tool using Puppeteer to automate back-end tasks and reduce manual effort.",
+                "Designed and implemented automation features with Puppeteer and Express.js, streamlining repetitive processes for improved efficiency.",
+                "Regularly monitored and optimized performance of automation and analytics tools to ensure seamless operation and scalability."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "May 2024 - Aug 2024"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Engineer Intern",
+            "subtitle": "Crewscale",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed full-stack web applications using React and Node.js, ensuring seamless backend integration and data flow.",
+"Deployed applications on AWS, leveraging services like EC2 and S3 for scalable and secure solutions.",
+"Implemented Sentry for error tracking and performance monitoring, enhancing application reliability and user experience.",
+"Managed version control through GitHub and coordinated project tasks using Jira, ensuring efficient collaboration and agile delivery."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2023 – 05/2023"
         }
     ]
 }
