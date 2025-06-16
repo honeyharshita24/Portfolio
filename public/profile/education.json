@@ -4,7 +4,7 @@
             "title": "Aug 2023 - May 2025",
             "cardTitle": "Masters in Computer Science",
             "cardSubtitle":"California State University ,East Bay ,",
-            "cardDetailedText": "GPA - 4",
+            "cardDetailedText": "GPA - 3.9",
             "icon" : {
                 "src": "images/education/csueb_logo.png"
             }
@@ -13,7 +13,10 @@
             "title": "Aug 2019 - July 2023",
             "cardTitle": "B.Tech, Computer Science",
             "cardSubtitle":"Mahatma Gandhi Institute of Technology",
-            "cardDetailedText": " CGPA- 7.88"
+            "cardDetailedText": " CGPA- 7.9",
+            "icon" : {
+                "src": "images/education/mgit_logo.jpg"
+            }
         }
     ]
 }

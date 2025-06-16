@@ -1,28 +1,27 @@
 {
-    "experiences": [
-        {
-            "title": "Software Developer Intern",
-            "subtitle": "Beanbag AI",
-            "workType": "Part-time",
-            "workDescription": [
-                "Enhanced Beanbag AI by integrating analytics for tracking and analyzing campaign performance, providing users with actionable insights.",
-                "Spearheaded the development of an automation tool using Puppeteer to automate back-end tasks and reduce manual effort.",
-                "Designed and implemented automation features with Puppeteer and Express.js, streamlining repetitive processes for improved efficiency.",
-                "Regularly monitored and optimized performance of automation and analytics tools to ensure seamless operation and scalability."
-            ],
-            "dateText": "May 2024 - Aug 2024"
-        },
-        {
-            "title": "Software Engineer Intern",
-            "subtitle": "Crewscale",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed full-stack web applications using React and Node.js, ensuring seamless backend integration and data flow.",
-"Deployed applications on AWS, leveraging services like EC2 and S3 for scalable and secure solutions.",
-"Implemented Sentry for error tracking and performance monitoring, enhancing application reliability and user experience.",
-"Managed version control through GitHub and coordinated project tasks using Jira, ensuring efficient collaboration and agile delivery."
-            ],
-            "dateText": "01/2023 – 05/2023"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Software Developer",
+      "subtitle": "Beanbag AI",
+      "workType": "Contract",
+      "workDescription": [
+        "Developed interactive analytics dashboards using React.js with TypeScript and Python backend, enhancing data visualization; integrated automated reporting to boost efficiency by 50% and reduce manual tasks by 60%",
+        "Streamlined CI/CD workflows using GitHub Actions, reducing deployment time by 25%; enforced quality with PyTest and SonarQube, boosting code coverage to 85% and cutting vulnerabilities by 60%.",
+        "Enhanced backend performance by refactoring RESTful APIs and optimizing database queries, cutting latency by 45%; leveraged AWS CloudWatch for real-time monitoring, reducing critical incidents by 35%.",
+        "Improved system scalability by implementing caching with Redis and load balancing, increasing throughput by 40%; conducted stress testing to ensure 99.8% uptime under peak traffic."
+      ],
+      "dateText": "May 2024 - Aug 2024"
+    },
+    {
+      "title": "Software Engineer",
+      "subtitle": "Crewscale",
+      "workType": "Full Time",
+      "workDescription": [
+        " Built responsive full-stack applications using React with Redux state management and Python Flask backend, improving frontend performance by 35%; deployed on AWS EC2 with S3 storage for 99.5% uptime.",
+        "Enhanced error tracking by integrating Sentry for real-time debugging, reducing unresolved bugs by 60%; optimized PostgreSQL indexing and query execution, boosting data retrieval speed by 40%.",
+        "Boosted team velocity by 30% and cut sprint spillover by 25% through leading Agile cycles in Jira; applied effective communication and leadership to drive alignment and delivery."
+      ],
+      "dateText": "June 2022 - June 2023"
+    }
+  ]
 }
