@@ -46,15 +46,11 @@
         {
             "image" : "images/projects/AI_Assignment_Generator_output.jpg",
             "title": "AI_Assignment_Generator",
-            "bodyText": "- Developed a responsive web app for managing notes with timestamps.\n - Users can easily add, review, and organize notes by creation time.\n - Ensured seamless user experience across devices. ",
+            "bodyText": "- Developed an AI-powered tool for auto-generating academic assignments.\n - Streamlined content creation with a clean, responsive UI for all devices. ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/honeyharshita24/PocketNotes.git"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://unrivaled-gelato-fbfc6f.netlify.app/"
+                    "href": "https://github.com/honeyharshita24/AI_Assignment_Generator.git"
                 }
             ],
             "tags" : [
