@@ -43,6 +43,24 @@
                 "CSS"
             ]
         } ,
+    {
+        "image" : "images/projects/AI_Code_Review_Output.jpg",
+            "title": "AI_Code_Reviewer",
+            "bodyText": "- Built an AI-powered code review platform using OpenAI Codex to analyze and provide smart code suggestions\n- Integrated with React and FastAPI, achieving a 30% reduction in manual review time\n- Utilized PostgreSQL for storing review feedback and code history across sessions",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/Code_Review_System.git"
+                }
+            ],
+            "tags" : [
+                "OpenAI Codex",
+                "FastAPI",
+                "React",
+                "PostgreSQL"
+            ]
+        },
+
         {
             "image" : "images/projects/AI_Assignment_Generator_output.jpg",
             "title": "AI_Assignment_Generator",
@@ -54,10 +72,10 @@
                 }
             ],
             "tags" : [
+                "OpenAI Codex",
                 "React",
-                "JavaScript",
-                "HTML",
-                "CSS"
+                "Node.js",
+                "SQL"
             ]
         }   
     ]
